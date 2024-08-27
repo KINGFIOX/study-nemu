@@ -10,3 +10,6 @@
 !Kconfig
 include/config
 include/generated
+!flake.nix
+!flake.lock
+!.envrc
